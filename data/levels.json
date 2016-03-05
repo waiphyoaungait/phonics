@@ -1,0 +1,54 @@
+{  
+   "levels":[  
+      {  
+         "name":"Level 1",
+         "sets":[  
+            {
+               "name":"Set 1",
+               "letters":["a","c","m","s","t"]
+            },
+            {  
+               "name":"Set 2",
+               "letters":["e","p","n","d","r"]
+            },
+            {  
+               "name":"Set 3",
+               "letters":["i","h","l","g","b"]
+            },
+            {  
+               "name":"Set 4",
+               "letters":["o","w","j","q","f"]
+            },
+            {  
+               "name":"Set 5",
+               "letters":["u","y","v","k","x","z"]
+            }
+         ]
+      },
+      {  
+         "name":"Level 2",
+         "sets":[  
+            {  
+               "name":"Long A Sound",
+               "letters":["ay","ai","a","a_e"]
+            },
+            {  
+               "name":"Long E Sound",
+               "letters":["ee","ie","e","e_e"]
+            },
+            {  
+               "name":"Long I Sound",
+               "letters":["i","igh","i_e"]
+            },
+            {  
+               "name":"Long O Sound",
+               "letters":["o_e","oa"]
+            },
+            {  
+               "name":"Long U Sound",
+               "letters":["u_e"]
+            }
+         ]
+      }
+   ]
+}

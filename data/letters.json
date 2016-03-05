@@ -1,0 +1,134 @@
+{  
+   "letters":{  
+      "a":{
+            "audio":"a_sound_female_UK",
+            "word":"apple",
+            "vowel": 1
+      },
+      "b":{
+            "audio":"b_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "c":{
+            "audio":"c_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "d":{
+            "audio":"d_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "e":{
+            "audio":"e_sound_female_UK",
+            "word":"apple",
+            "vowel": 1
+      },
+      "f":{
+            "audio":"f_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "g":{
+            "audio":"g_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "h":{
+            "audio":"h_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "i":{
+            "audio":"i_sound_female_UK",
+            "word":"apple",
+            "vowel": 1
+      },
+      "j":{
+            "audio":"j_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "k":{
+            "audio":"k_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "l":{
+            "audio":"l_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "m":{
+            "audio":"m_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "n":{
+            "audio":"n_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "o":{
+            "audio":"o_sound_female_UK",
+            "word":"apple",
+            "vowel": 1
+      },
+      "p":{
+            "audio":"p_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "q":{
+            "audio":"q_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "r":{
+            "audio":"r_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "s":{
+            "audio":"s_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "t":{
+            "audio":"t_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "u":{
+            "audio":"u_sound_female_UK",
+            "word":"apple",
+            "vowel": 1
+      },
+      "v":{ 
+            "audio":"v_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "w":{
+            "audio":"w_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "x":{
+            "audio":"x_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "y":{
+            "audio":"y_sound_female_UK",
+            "word":"apple",
+            "vowel": 0
+      },
+      "z":{
+            "audio":"z_sound_female_UK",
+            "word":"ball",
+            "vowel": 0
+      }
+   }
+}
